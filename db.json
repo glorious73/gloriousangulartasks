@@ -17,6 +17,12 @@
       "text": "Food Shopping",
       "day": "May 7th at 12:30pm",
       "reminder": true
+    },
+    {
+      "text": "30 Push ups",
+      "day": "Aug 27th at 3:04 PM",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
