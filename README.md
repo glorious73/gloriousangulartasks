@@ -1,13 +1,17 @@
-# Gloriousangulartasks
+# Glorious Angular Tasks
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.0.
 
 ## Project
-This is a [crash course on Angular by Traversy Media on YouTube](https://www.youtube.com/watch?v=3dHNOWTI7H8). The tutorial was followed al the way onto creating the simple Task application.
+This is a [crash course on Angular by Traversy Media on YouTube](https://www.youtube.com/watch?v=3dHNOWTI7H8). The tutorial was followed all the way onto creating the simple Task application.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+## Json server
+
+In parallel with the development server, run `npm run jsonserver` for the mock api server. It is used to do CRUD operations on the tasks.
 
 ## Code scaffolding
 
